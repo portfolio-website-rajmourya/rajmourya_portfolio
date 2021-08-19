@@ -7,8 +7,13 @@
 
 #header:hover{
     background-color: rgb(150, 223, 176);
+    cursor: pointer;
 }
 
 .active{
     text-decoration:underline;
+}
+
+#link{
+    cursor: pointer;
 }
