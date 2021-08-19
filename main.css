@@ -1,0 +1,14 @@
+.footeheader{
+    color: white;
+    font-size: 22px;
+    font-family: 'Baloo Bhai 2', cursive;
+    text-align: center;
+}
+
+#header:hover{
+    background-color: rgb(150, 223, 176);
+}
+
+.active{
+    text-decoration:underline;
+}
