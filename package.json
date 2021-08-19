@@ -1,0 +1,5 @@
+"scripts": {
+    "start": "index.html",
+    "build": "webpack"
+},
+"heroku-run-build-script": true
